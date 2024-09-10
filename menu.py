@@ -11,6 +11,7 @@ def menu():
         elif opcion == 2:
             print("Ingreso Segundo Operando")
         elif opcion == 3:
+            sumar()
             print("Calculo todas las operaciones")
         elif opcion == 4:
             print("Informo todos los resultados")
